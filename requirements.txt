@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────
+#  ChurnLens · ML-2 · Teyzix Core 2026
+#  Python Dependencies
+#  Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────
+
+# Core data
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Explainability
+shap>=0.42.0
+
+# Visualisation
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Dashboard
+streamlit>=1.28.0
+matplotlib
